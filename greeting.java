@@ -1,4 +1,4 @@
-public class Greeting {
+public class greeting {
     // Holle World greeting;
     public static void main(String[] args) {
 
